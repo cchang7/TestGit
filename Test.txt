@@ -1,1 +1,3 @@
-Hello, testing for Git folder
+Hello, testing for Git folder.
+
+Hello world
